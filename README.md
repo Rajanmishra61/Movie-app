@@ -16,4 +16,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see some small errors in the console, which can be ignored.
 
-Note :- I am attaching a different file with the project named 'screenshots' which contains the screen-shots of the running project.
+Note :- I am attaching a different file named 'screenshots' with the project which contains the screen-shots of the running project.
