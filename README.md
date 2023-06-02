@@ -1,2 +1,17 @@
-# Movie-app
-Discover a whole new level of personalized movie entertainment with our Movie app. Stay up-to-date with the latest releases, browse comprehensive movie details, view popular and top rated movies.
+# Getting Started with Create React App
+
+This project is created with [Create React App].
+
+
+In the project directory, you can run:
+
+### `npm i`
+ run the command in the new terminal. This will install all the necessary dependencies for the project.
+
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
